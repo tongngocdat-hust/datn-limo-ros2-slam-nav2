@@ -1,0 +1,9 @@
+# Keep evaluation dependencies isolated from ROS 2's system Python.
+# OpenCV builds commonly installed on Ubuntu 22.04 are not compatible with
+# NumPy 2.x, so this environment intentionally stays on NumPy 1.x.
+numpy>=1.23,<2
+pandas>=1.5,<2.3
+Pillow>=9,<12
+scikit-image>=0.20,<0.25
+scipy>=1.9,<1.15
+opencv-python-headless>=4.8,<4.10

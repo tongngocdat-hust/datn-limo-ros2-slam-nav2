@@ -1,0 +1,4 @@
+run_label,keyword,source_file,samples,process_count_mean,cpu_mean,cpu_std,cpu_max,ram_mean_mb,ram_std_mb,ram_max_mb
+cartographer,cartographer,limo_resource_results/cartographer.csv,59,4.0,33.25423728813559,2.7704924269073796,40.0,282.76311864406784,0.8396154514839875,284.32
+gmapping,gmapping,limo_resource_results/gmapping.csv,86,2.0,11.790697674418604,8.870461595615451,28.0,354.1631744186046,0.047610723423952034,354.238
+slam_toolbox,slam_toolbox,limo_resource_results/slam_toolbox.csv,59,2.0,4.728813559322034,0.5518154512396042,6.0,79.00840677966102,0.0038377374982861323,79.016

@@ -1,0 +1,5 @@
+| Thuat toan | So mau | So process TB | CPU TB (%) | CPU std | CPU max (%) | RAM TB (MB) | RAM std | RAM max (MB) |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Cartographer | 59 | 4.0 | 33.25 | 2.77 | 40.00 | 282.76 | 0.84 | 284.32 |
+| Gmapping | 86 | 2.0 | 11.79 | 8.87 | 28.00 | 354.16 | 0.05 | 354.24 |
+| Slam Toolbox | 59 | 2.0 | 4.73 | 0.55 | 6.00 | 79.01 | 0.00 | 79.02 |

@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / VitePress
+node_modules/
+dist/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ROS 2 / colcon
+build/
+install/
+log/
+.colcon/
+
+# Experiment outputs
+data/bags/
+data/maps/
+data/results/
+data/resources/
+tudong/demo/results/
+tudong/results/
+*.db3
+*.mcap
+*.bag
+
+# Generated reports and plots
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pdf
+!docs/public/**
+!scripts/resource_monitoring/limo_resource_results/resource_comparison.png
+!scripts/resource_monitoring/limo_resource_results/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo

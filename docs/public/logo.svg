@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LIMO">
+  <rect width="64" height="64" rx="14" fill="#146c5f"/>
+  <path d="M18 39h28l5-10H13l5 10Z" fill="#f7fafc"/>
+  <path d="M22 25h20l4 4H18l4-4Z" fill="#9ae6b4"/>
+  <circle cx="23" cy="43" r="5" fill="#1a202c"/>
+  <circle cx="41" cy="43" r="5" fill="#1a202c"/>
+  <path d="M28 17h8v7h-8z" fill="#f6ad55"/>
+</svg>
